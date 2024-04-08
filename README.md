@@ -1,5 +1,4 @@
 # Weather Application
-
 WeatherNow is a weather application built with React, Tailwind CSS, and powered by Rapid API. It provides real-time updates on current and forecasted weather conditions, offering a seamless user experience.
 
 ## Features
