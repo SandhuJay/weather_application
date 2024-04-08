@@ -14,8 +14,7 @@ WeatherNow is a weather application built with React, Tailwind CSS, and powered 
 1. Clone the repository: `git clone https://github.com/sandhujay/weathernow.git`
 2. Navigate to the project directory: `cd weathernow`
 3. Install dependencies: `npm install`
-4. Start the development server: `npm start`
-5. Open `http://localhost:3000` in your browser.
+4. Start the Vite development server: `npm run dev`
 
 ## Usage
 
